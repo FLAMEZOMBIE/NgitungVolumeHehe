@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NgitungVolumeHehe</string>
+    <string name="length">length</string>
+    <string name="width">width</string>
+    <string name="heigth">heigth</string>
+    <string name="calculate">calculate</string>
+    <string name="result">result</string>
+</resources>
